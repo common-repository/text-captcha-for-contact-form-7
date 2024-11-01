@@ -1,0 +1,25 @@
+.cf7tc_container{
+    width: 220px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.cf7tc_container input[type=text]{
+    width: 60px!important;
+    height: 40px;
+    padding-left: 10px;
+    color: #000;
+    font-size: 18px;
+}
+.cf7tc_container p{
+    color: #000;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.cf7tc_container span{
+    font-size: 18px;
+}
+.wpcf7 .wpcf7-submit:disabled {
+    opacity: 0.5!important;
+}
